@@ -1,6 +1,7 @@
 # CRUD EXAMPLE
 
 ## Getting Started
+Install .NET Runtime v8.0.204
 
 To run this project, you need to add a configuration file named `appsettings.Development.json`. You can use the `exampleAppsettings.Development.json` file provided in the repository as a template.
 
