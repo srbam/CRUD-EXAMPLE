@@ -16,4 +16,5 @@ To run this project, you need to add a configuration file named `appsettings.Dev
 To run the project, use the following command:
 
 ```bash
+dotnet build
 dotnet watch run
